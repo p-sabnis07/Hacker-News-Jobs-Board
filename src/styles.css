@@ -1,0 +1,54 @@
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 20px;
+  background-color: #f8f8f8;
+}
+
+.App {
+  text-align: center;
+}
+
+h2 {
+  color: #ff8c00;
+  margin-right: 77%; /* Orange color for the header */
+}
+
+.job-posting {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-bottom: 10px;
+  background-color: #fff; /* White background for job postings */
+}
+
+.job-title {
+  font-size: 18px;
+  font-weight: bold;
+  cursor: pointer;
+  /* Orange color for the job title */
+}
+
+.poster {
+  color: #666;
+}
+
+.date-posted {
+  color: #888;
+}
+
+#job-board {
+  margin-top: 20px;
+}
+
+button {
+  padding: 10px;
+  background-color: #ff8c00; /* Orange color for the button */
+  color: #fff; /* White text color for the button */
+  border: none;
+  cursor: pointer;
+  margin-right: 91%;
+}
+
+button:hover {
+  background-color: #cc7000; /* Darker shade of orange on hover */
+}
+
